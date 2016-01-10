@@ -1,0 +1,25 @@
+{
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "description": "my e-commerce website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abderait/e-commerce.git"
+  },
+  "author": "abderait",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abderait/e-commerce/issues"
+  },
+  "homepage": "https://github.com/abderait/e-commerce#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "express": "^4.13.3",
+    "mongoose": "^4.3.5",
+    "morgan": "^1.6.1"
+  }
+}
